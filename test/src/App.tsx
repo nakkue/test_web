@@ -52,7 +52,7 @@ function Sidebar({ selectedMenu, setSelectedMenu }: SidebarProps) {
         ))}
       </List>
     </Drawer>
-  );
+  );ㅞ
 }
 
 // ✅ 개선된 명사/형용사 추출 함수 (1.9버전)
